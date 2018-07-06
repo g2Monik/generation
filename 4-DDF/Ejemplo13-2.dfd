@@ -1,0 +1,70 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+4
+iDiv
+1
+2
+8
+iMuestra
+1
+0
+4
+1
+16
+'Dame un numero'
+5
+1
+4
+iNum
+9
+1
+26
+iDiv<iNum and iMuestra = 0
+6
+1
+8
+iResiduo
+13
+iNum mod iDiv
+7
+0
+1
+12
+iResiduo = 0
+6
+1
+4
+iDiv
+7
+iDiv +1
+13
+6
+1
+8
+iMuestra
+1
+1
+13
+11
+7
+0
+1
+12
+iMuestra = 0
+4
+1
+23
+'El numero no es primo'
+13
+4
+1
+20
+'El Numero es primo'
+13
+1

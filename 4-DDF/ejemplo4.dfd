@@ -1,0 +1,46 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+5
+iNum1
+1
+0
+4
+iRes
+1
+0
+4
+1
+16
+'Dame un numero'
+5
+1
+5
+iNum1
+6
+1
+4
+iRes
+11
+iNum1 mod 2
+7
+1
+1
+9
+iRes != 0
+4
+1
+20
+'El numero es impar'
+13
+4
+1
+18
+'El numero es Par'
+13
+1

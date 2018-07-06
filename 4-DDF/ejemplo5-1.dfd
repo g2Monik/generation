@@ -1,0 +1,63 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+16
+'Dame un numero'
+5
+1
+5
+iEdad
+7
+0
+1
+11
+iEdad >= 19
+7
+0
+1
+9
+iEdad >=5
+4
+1
+6
+'Niño'
+13
+4
+1
+12
+'Adolecente'
+13
+13
+7
+0
+1
+10
+iEdad >=36
+4
+1
+11
+'Chavoruco'
+13
+7
+0
+1
+10
+iEdad > 36
+4
+1
+10
+'Inmortal'
+13
+4
+1
+9
+'Viejito'
+13
+13
+13
+1

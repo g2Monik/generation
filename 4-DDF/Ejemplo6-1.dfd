@@ -1,0 +1,43 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+5
+iCont
+1
+0
+5
+sName
+2
+''
+4
+1
+16
+'Dame Tu Nombre'
+5
+1
+5
+sName
+8
+1
+5
+iCont
+1
+1
+1
+1
+1
+5
+1
+1
+1
+4
+1
+25
+'Tu nombre es: ', + sName
+10
+1

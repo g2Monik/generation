@@ -1,0 +1,35 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+5
+iEdad
+1
+0
+4
+iRes
+1
+0
+4
+1
+30
+'Cual es tu año de nacimiento'
+5
+1
+5
+iEdad
+6
+1
+4
+iRes
+15
+- iEdad +  2018
+4
+1
+23
+'Tu edad es: ' , + iRes
+1

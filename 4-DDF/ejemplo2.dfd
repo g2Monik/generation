@@ -1,0 +1,47 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+5
+iNum1
+1
+0
+5
+iNum2
+1
+0
+4
+iRes
+1
+0
+4
+1
+14
+'Dame la base'
+5
+1
+5
+iNum1
+4
+1
+16
+'Dame la altura'
+5
+1
+5
+iNum2
+6
+1
+4
+iRes
+15
+(iNum1*iNum2)/2
+4
+1
+20
+'La suma es: ', iRes
+1
